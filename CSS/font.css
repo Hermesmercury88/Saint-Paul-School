@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('../font/black-ops-one/BlackOpsOne-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'MySecondFont';
+src: url('../font/crimson/OTF/Crimson-Roman.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MyThirdFont';
+    src: url('../font/lato/Lato-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MyFourthFont';
+    src: url('../font/monoton/Monoton-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MyFifthFont';
+    src: url('../font/lovers-quarrel/LoversQuarrel-Regular.ttf') format('truetype');
+}
+

@@ -1,0 +1,133 @@
+/* พื้นหลังของ Carousel */
+#quotes-section {
+    background-size: cover;
+    background-position: center;
+    padding: 60px 0;
+    color: #ffffff;
+    text-align: center;
+}
+
+/* สไตล์สำหรับหัวข้อหลัก */
+#quotes-section .section-title h3 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+/* สไตล์ภาพของผู้เขียน Quotes */
+.quote-meta .quote-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+/* สไตล์ชื่อผู้เขียน */
+.quote-meta h4 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* การจัดตำแหน่งข้อความ Quote */
+.quote-item .quote-desc h3 {
+    font-size: 1.5rem;
+    font-style: italic;
+    font-weight: normal;
+    background-color: rgba(0, 0, 0, 0.7); /* พื้นหลังสีดำโปร่งแสง */
+    padding: 15px 20px;
+    border-radius: 8px;
+    display: inline-block;
+    color: #ffffff;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+/* ลูกศรสำหรับ Carousel */
+.owl-nav .owl-prev,
+.owl-nav .owl-next {
+    background-color: #ffffff;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 1.5rem;
+    color: #333;
+    margin: 0 10px;
+    transition: background-color 0.3s;
+}
+
+.owl-nav .owl-prev:hover,
+.owl-nav .owl-next:hover {
+    background-color: #f0f0f0;
+}
+
+/* ทำให้ลูกศรอยู่ตรงกลางแนวตั้ง */
+.owl-nav {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+}
+
+/* ขนาดของ Carousel */
+.quotes-carousel {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* ปรับขนาดและการจัดการมุมของ Quote Icon */
+.quote-desc i.fa-quote-left {
+    font-size: 2rem;
+    color: #4e73df;
+    margin-right: 10px;
+}
+
+/* ลูกศรสำหรับ Carousel */
+.carousel-control-prev,
+.carousel-control-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #333;
+    font-size: 1.5rem;
+    transition: background-color 0.3s;
+    z-index: 5;
+}
+
+.carousel-control-prev {
+    left: 10px;
+}
+
+.carousel-control-next {
+    right: 10px;
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+/* ไอคอนลูกศร */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-image: none;
+    font-size: 24px;
+    color: #333;
+}
+
+/* ปรับการแสดงผลของลูกศรเมื่อ hover */
+.carousel-control-prev:hover .carousel-control-prev-icon,
+.carousel-control-next:hover .carousel-control-next-icon {
+    color: #000;
+}
