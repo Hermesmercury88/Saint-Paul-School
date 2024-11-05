@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 50,
+            "activePatchIndex": 54,
             "patches": [
                 {
                     "date": 1730812947613,
@@ -208,6 +208,22 @@
                 {
                     "date": 1730821172748,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -130,8 +130,9 @@\n         <h1 style=\"color: white;\">Grade 11</h1>\r\n     </div>\r\n     \r\n     <div class=\"row\">\r\n+        \r\n         <div class=\"col-md-6 col-lg-3 text-center team mb-4\">\r\n             <div class=\"team-item rounded overflow-hidden mb-2\">\r\n                 <div class=\"team-img position-relative\">\r\n                     <img class=\"custom-img\" src=\"https://i.pinimg.com/564x/3c/60/93/3c60936adfe9de7e22d16dcabbdadfcf.jpg\" alt=\"\" width=\"500\" height=\"500\" >\r\n"
+                },
+                {
+                    "date": 1730827950974,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -130,30 +130,18 @@\n         <h1 style=\"color: white;\">Grade 11</h1>\r\n     </div>\r\n     \r\n     <div class=\"row\">\r\n-        \r\n-        <div class=\"col-md-6 col-lg-3 text-center team mb-4\">\r\n-            <div class=\"team-item rounded overflow-hidden mb-2\">\r\n-                <div class=\"team-img position-relative\">\r\n-                    <img class=\"custom-img\" src=\"https://i.pinimg.com/564x/3c/60/93/3c60936adfe9de7e22d16dcabbdadfcf.jpg\" alt=\"\" width=\"500\" height=\"500\" >\r\n-                    <div class=\"team-social\">\r\n-                        <a class=\"btn btn-outline-light btn-square mx-1\" href=\" # \"><i class=\"fab fa-linkedin-in\"></i></a>\r\n-                    </div>\r\n-                </div>\r\n-                <div class=\"bg-secondary p-4\">\r\n-                    <h5> </h5>\r\n-                    <p class=\"m-0\"> </p>\r\n-                </div>\r\n-            </div>\r\n-        </div>\r\n \r\n+\r\n+\r\n     </div>   \r\n \r\n     <div class=\"text-center mb-5\">\r\n         <h1 style=\"color: white;\">Grade 12</h1>\r\n     </div>\r\n     <div class=\"row\">\r\n+\r\n         <div class=\"col-md-6 col-lg-3 text-center team mb-4\">\r\n             <div class=\"team-item rounded overflow-hidden mb-2\">\r\n                 <div class=\"team-img position-relative\">\r\n                     <img class=\"custom-img\" src=\"https://i.pinimg.com/736x/45/e6/1b/45e61b6321ce3e571120e97beea7fe4f.jpg\" alt=\"\" width=\"500\" height=\"500\" >\r\n"
+                },
+                {
+                    "date": 1730827962325,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -125,16 +125,10 @@\n         </div>\r\n     \r\n     </div>\r\n \r\n-    <div class=\"text-center mb-5\">\r\n-        <h1 style=\"color: white;\">Grade 11</h1>\r\n-    </div>\r\n-    \r\n-    <div class=\"row\">\r\n \r\n \r\n-\r\n     </div>   \r\n \r\n     <div class=\"text-center mb-5\">\r\n         <h1 style=\"color: white;\">Grade 12</h1>\r\n@@ -155,8 +149,23 @@\n                 </div>\r\n             </div>\r\n         </div>\r\n \r\n+        <div class=\"col-md-6 col-lg-3 text-center team mb-4\">\r\n+            <div class=\"team-item rounded overflow-hidden mb-2\">\r\n+                <div class=\"team-img position-relative\">\r\n+                    <img class=\"custom-img\" src=\"https://i.pinimg.com/564x/3c/60/93/3c60936adfe9de7e22d16dcabbdadfcf.jpg\" alt=\"\" width=\"500\" height=\"500\" >\r\n+                    <div class=\"team-social\">\r\n+                        <a class=\"btn btn-outline-light btn-square mx-1\" href=\" # \"><i class=\"fab fa-linkedin-in\"></i></a>\r\n+                    </div>\r\n+                </div>\r\n+                <div class=\"bg-secondary p-4\">\r\n+                    <h5> </h5>\r\n+                    <p class=\"m-0\"> </p>\r\n+                </div>\r\n+            </div>\r\n+        </div>\r\n+\r\n         \r\n     </div>\r\n        \r\n \r\n"
+                },
+                {
+                    "date": 1730827967475,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -124,13 +124,10 @@\n             </div>\r\n         </div>\r\n     \r\n     </div>\r\n+   \r\n \r\n-\r\n-\r\n-    </div>   \r\n-\r\n     <div class=\"text-center mb-5\">\r\n         <h1 style=\"color: white;\">Grade 12</h1>\r\n     </div>\r\n     <div class=\"row\">\r\n"
+                },
+                {
+                    "date": 1730827981033,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -123,10 +123,9 @@\n                 </div>\r\n             </div>\r\n         </div>\r\n     \r\n-    </div>\r\n-   \r\n+    </div>   \r\n \r\n     <div class=\"text-center mb-5\">\r\n         <h1 style=\"color: white;\">Grade 12</h1>\r\n     </div>\r\n"
                 }
             ],
             "date": 1730812947613,
