@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 54,
+            "activePatchIndex": 55,
             "patches": [
                 {
                     "date": 1730812947613,
@@ -224,6 +224,10 @@
                 {
                     "date": 1730827981033,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -123,10 +123,9 @@\n                 </div>\r\n             </div>\r\n         </div>\r\n     \r\n-    </div>\r\n-   \r\n+    </div>   \r\n \r\n     <div class=\"text-center mb-5\">\r\n         <h1 style=\"color: white;\">Grade 12</h1>\r\n     </div>\r\n"
+                },
+                {
+                    "date": 1730884594257,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n <html lang=\"en\">\r\n \r\n <head>\r\n     <meta charset=\"utf-8\">\r\n-    <title>Agora Madrid High School</title>\r\n+    <title>𝑺𝐀𝐈𝐍𝐓 𝐏𝐀𝐔𝐋 𝐒𝐂𝐇𝐎𝐎𝐋</title>\r\n     <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\r\n     <meta content=\"Free HTML Templates\" name=\"keywords\">\r\n     <meta content=\"Free HTML Templates\" name=\"description\">\r\n \r\n"
                 }
             ],
             "date": 1730812947613,

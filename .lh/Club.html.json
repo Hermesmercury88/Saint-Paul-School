@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 26,
+            "activePatchIndex": 28,
             "patches": [
                 {
                     "date": 1730812905922,
@@ -112,6 +112,14 @@
                 {
                     "date": 1730824201736,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -243,9 +243,9 @@\n                 </div>\r\n \r\n                 <div class=\"col-lg-3 col-md-6 mb-4\">\r\n                     <div class=\"cat-item position-relative overflow-hidden rounded mb-2\">\r\n-                        <img class=\"custom-img\" src=\"https://i.pinimg.com/564x/7a/ab/bd/7aabbde948ca51ac357fcab8fa748c8c.jpg\" alt=\"\" width=\"300\" height=\"300\">\r\n+                        <img class=\"custom-img\" src=\"https://i.pinimg.com/564x/b3/5a/3b/b35a3b16ae463ed25fa6de8409e7e99b.jpg\" alt=\"\" width=\"300\" height=\"300\">\r\n                         <a class=\"cat-overlay text-white text-decoration-none\">\r\n                             <h4 class=\"text-white font-weight-medium\">Cooking</h4>\r\n                         </a>\r\n                     </div>\r\n"
+                },
+                {
+                    "date": 1730884548270,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n <html lang=\"en\">\r\n \r\n <head>\r\n     <meta charset=\"utf-8\">\r\n-    <title>Agora Madrid High School</title>\r\n+    <title>𝑺𝐀𝐈𝐍𝐓 𝐏𝐀𝐔𝐋 𝐒𝐂𝐇𝐎𝐎𝐋<</title>\r\n     <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\r\n     <meta content=\"Free HTML Templates\" name=\"keywords\">\r\n     <meta content=\"Free HTML Templates\" name=\"description\">\r\n \r\n"
+                },
+                {
+                    "date": 1730884580362,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n <html lang=\"en\">\r\n \r\n <head>\r\n     <meta charset=\"utf-8\">\r\n-    <title>𝑺𝐀𝐈𝐍𝐓 𝐏𝐀𝐔𝐋 𝐒𝐂𝐇𝐎𝐎𝐋<</title>\r\n+    <title>𝑺𝐀𝐈𝐍𝐓 𝐏𝐀𝐔𝐋 𝐒𝐂𝐇𝐎𝐎𝐋</title>\r\n     <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\r\n     <meta content=\"Free HTML Templates\" name=\"keywords\">\r\n     <meta content=\"Free HTML Templates\" name=\"description\">\r\n \r\n"
                 }
             ],
             "date": 1730812905922,
