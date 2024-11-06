@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 59,
+            "activePatchIndex": 61,
             "patches": [
                 {
                     "date": 1730812947613,
@@ -244,6 +244,14 @@
                 {
                     "date": 1730887869542,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -139,10 +139,10 @@\n                         <a class=\"btn btn-outline-light btn-square mx-1\" href=\" # \"><i class=\"fab fa-linkedin-in\"></i></a>\r\n                     </div>\r\n                 </div>\r\n                 <div class=\"bg-secondary p-4\">\r\n-                    <h5> </h5>\r\n-                    <p class=\"m-0\"></p>\r\n+                    <h5>Tiwakorn LaRue Travers Paradis</h5>\r\n+                    <p class=\"m-0\">President(ชั่วคราว)</p>\r\n                 </div>\r\n             </div>\r\n         </div>\r\n \r\n"
+                },
+                {
+                    "date": 1730887909688,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -135,9 +135,9 @@\n             <div class=\"team-item rounded overflow-hidden mb-2\">\r\n                 <div class=\"team-img position-relative\">\r\n                     <img class=\"custom-img\" src=\"https://i.pinimg.com/736x/45/e6/1b/45e61b6321ce3e571120e97beea7fe4f.jpg\" alt=\"\" width=\"500\" height=\"500\" >\r\n                     <div class=\"team-social\">\r\n-                        <a class=\"btn btn-outline-light btn-square mx-1\" href=\" # \"><i class=\"fab fa-linkedin-in\"></i></a>\r\n+                        <a class=\"btn btn-outline-light btn-square mx-1\" href=\"https://www.canva.com/design/DAGVsb9WkMc/pePPh9u_IbXniFTNwPjpRQ/view?utm_content=DAGVsb9WkMc&utm_campaign=designshare&utm_medium=link&utm_source=editor \"><i class=\"fab fa-linkedin-in\"></i></a>\r\n                     </div>\r\n                 </div>\r\n                 <div class=\"bg-secondary p-4\">\r\n                     <h5>Tiwakorn LaRue Travers Paradis</h5>\r\n"
+                },
+                {
+                    "date": 1730887917743,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -135,9 +135,9 @@\n             <div class=\"team-item rounded overflow-hidden mb-2\">\r\n                 <div class=\"team-img position-relative\">\r\n                     <img class=\"custom-img\" src=\"https://i.pinimg.com/736x/45/e6/1b/45e61b6321ce3e571120e97beea7fe4f.jpg\" alt=\"\" width=\"500\" height=\"500\" >\r\n                     <div class=\"team-social\">\r\n-                        <a class=\"btn btn-outline-light btn-square mx-1\" href=\"https://www.canva.com/design/DAGVsb9WkMc/pePPh9u_IbXniFTNwPjpRQ/view?utm_content=DAGVsb9WkMc&utm_campaign=designshare&utm_medium=link&utm_source=editor \"><i class=\"fab fa-linkedin-in\"></i></a>\r\n+                        <a class=\"btn btn-outline-light btn-square mx-1\" href=\"https://www.canva.com/design/DAGVsb9WkMc/pePPh9u_IbXniFTNwPjpRQ/view?utm_content=DAGVsb9WkMc&utm_campaign=designshare&utm_medium=link&utm_source=editor\"><i class=\"fab fa-linkedin-in\"></i></a>\r\n                     </div>\r\n                 </div>\r\n                 <div class=\"bg-secondary p-4\">\r\n                     <h5>Tiwakorn LaRue Travers Paradis</h5>\r\n"
                 }
             ],
             "date": 1730812947613,

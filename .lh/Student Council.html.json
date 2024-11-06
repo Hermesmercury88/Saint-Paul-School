@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 30,
+            "activePatchIndex": 31,
             "patches": [
                 {
                     "date": 1730812934256,
@@ -128,6 +128,10 @@
                 {
                     "date": 1730887799837,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -100,9 +100,9 @@\n                         </div>\r\n                     </div>\r\n                     <div class=\"bg-secondary p-4\">\r\n                         <h5>Tiwakorn LaRue Travers Paradis</h5>\r\n-                        <p class=\"m-0\">President(</p>\r\n+                        <p class=\"m-0\">President(ชั่วคราว)</p>\r\n                     </div>\r\n                 </div>\r\n             </div>\r\n     \r\n"
+                },
+                {
+                    "date": 1730887935672,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -95,9 +95,9 @@\n                 <div class=\"team-item rounded overflow-hidden mb-2\">\r\n                     <div class=\"team-img position-relative\">\r\n                         <img class=\"custom-img\" src=\"https://i.pinimg.com/736x/83/10/cb/8310cbbcfd06b2823b1cad91370aecc9.jpg\" alt=\"\" width=\"500\" height=\"500\" >\r\n                         <div class=\"team-social\">\r\n-                            <a class=\"btn btn-outline-light btn-square mx-1\" href=\" # \"><i class=\"fab fa-linkedin-in\"></i></a>\r\n+                            <a class=\"btn btn-outline-light btn-square mx-1\" href=\"https://www.canva.com/design/DAGVsb9WkMc/pePPh9u_IbXniFTNwPjpRQ/view?utm_content=DAGVsb9WkMc&utm_campaign=designshare&utm_medium=link&utm_source=editor\"><i class=\"fab fa-linkedin-in\"></i></a>\r\n                         </div>\r\n                     </div>\r\n                     <div class=\"bg-secondary p-4\">\r\n                         <h5>Tiwakorn LaRue Travers Paradis</h5>\r\n"
                 }
             ],
             "date": 1730812934256,
