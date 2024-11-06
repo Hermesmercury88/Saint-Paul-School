@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 164,
+            "activePatchIndex": 166,
             "patches": [
                 {
                     "date": 1730790798964,
@@ -664,6 +664,14 @@
                 {
                     "date": 1730884800303,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -119,9 +119,9 @@\n                     <ol></ol>\r\n                     </p>\r\n \r\n                     <ol></ol>\r\n-                    <a href=\" # \" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Pin Image</a>\r\n+                    <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSefIfI6DNJWyCyLMCcMTjAtfEXiSl3RT-ITvq3BOkNyx_DUgg/viewform\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Pin Image</a>\r\n                     <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSf7dTF7J-hyg04nDhFZ24bMbDu2kM_h3tsQkYACGrrpE_8DRA/viewform\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Send Form</a>\r\n                     <a href=\"https://docs.google.com/spreadsheets/d/15G3i0a3Z2dGG0UUc8B2P2lbXPDXlZjZW39QngUCqyqM/edit?usp=sharing\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Check</a>\r\n                 </div>\r\n             </div>\r\n"
+                },
+                {
+                    "date": 1730885631375,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -50,9 +50,9 @@\n                         <div class=\"navbar-nav py-0\">\r\n                             <!-- แก้ไข href เป็น href=\"#\" หรือ href=\"javascript:void(0)\" -->\r\n                             <a href=\"index.html\" class=\"nav-item nav-link\">Home</a>\r\n                             <a href=\"about.html\" class=\"nav-item nav-link active\">About</a>\r\n-                            <a href=\" # \" class=\"nav-item nav-link\">Form</a>\r\n+                            <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" class=\"nav-item nav-link\">Form</a>\r\n                             <a href=\"Student.html\" class=\"nav-item nav-link\">Student</a>\r\n                             <a href=\"Teacher.html\" class=\"nav-item nav-link\">Teachers</a>\r\n                             <a href=\"Student Council.html\" class=\"nav-item nav-link\">Student Council</a>\r\n                             <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subjects</a>\r\n"
+                },
+                {
+                    "date": 1730885821395,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -221,8 +221,9 @@\n                     <p style=\"color: white;\"> \r\n                         > รับนักเรียนจำกัดเพียง 30 คนเท่านั้น\r\n                         <ol></ol>\r\n                     </p>\r\n+                    <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Form</a>\r\n                 </div>\r\n             </div>\r\n         </div>\r\n       <!-- About End -->\r\n"
                 }
             ],
             "date": 1730790798964,

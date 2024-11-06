@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 55,
+            "activePatchIndex": 56,
             "patches": [
                 {
                     "date": 1730812947613,
@@ -228,6 +228,10 @@
                 {
                     "date": 1730884594257,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n <html lang=\"en\">\r\n \r\n <head>\r\n     <meta charset=\"utf-8\">\r\n-    <title>Agora Madrid High School</title>\r\n+    <title>𝑺𝐀𝐈𝐍𝐓 𝐏𝐀𝐔𝐋 𝐒𝐂𝐇𝐎𝐎𝐋</title>\r\n     <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\r\n     <meta content=\"Free HTML Templates\" name=\"keywords\">\r\n     <meta content=\"Free HTML Templates\" name=\"description\">\r\n \r\n"
+                },
+                {
+                    "date": 1730885695813,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -50,9 +50,9 @@\n                         <div class=\"navbar-nav py-0\">\r\n                             <!-- แก้ไข href เป็น href=\"#\" หรือ href=\"javascript:void(0)\" -->\r\n                             <a href=\"index.html\" class=\"nav-item nav-link\">Home</a>\r\n                             <a href=\"about.html\" class=\"nav-item nav-link\">About</a>\r\n-                            <a href=\"#\" class=\"nav-item nav-link\">Form</a>\r\n+                            <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" class=\"nav-item nav-link\">Form</a>\r\n                             <a href=\"Student.html\" class=\"nav-item nav-link active\">Student</a>\r\n                             <a href=\"Teacher.html\" class=\"nav-item nav-link\">Teachers</a>\r\n                             <a href=\"Student Council.html\" class=\"nav-item nav-link\">Student Council</a>\r\n                             <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subjects</a>\r\n"
                 }
             ],
             "date": 1730812947613,
