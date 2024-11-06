@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 15,
+            "activePatchIndex": 17,
             "patches": [
                 {
                     "date": 1730812975612,
@@ -68,6 +68,14 @@
                 {
                     "date": 1730888391380,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -52,9 +52,8 @@\n                             <a href=\"about.html\" class=\"nav-item nav-link\">About</a>\r\n                             <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" class=\"nav-item nav-link\">Form</a>\r\n                             <a href=\"Student.html\" class=\"nav-item nav-link\">Student</a>\r\n                             <a href=\"Teacher.html\" class=\"nav-item nav-link active\">Teachers</a>\r\n-                            <a href=\"Student Council.html\" class=\"nav-item nav-link\">Student Council</a>\r\n                             <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subjects</a>\r\n                             <a href=\"Club.html\" class=\"nav-item nav-link\">Club</a>\r\n                         </div>\r\n                     </div>\r\n"
+                },
+                {
+                    "date": 1730911748748,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -49,9 +49,9 @@\n                         <div class=\"navbar-nav py-0\">\r\n                             <!-- แก้ไข href เป็น href=\"#\" หรือ href=\"javascript:void(0)\" -->\r\n                             <a href=\"index.html\" class=\"nav-item nav-link\">Home</a>\r\n                             <a href=\"about.html\" class=\"nav-item nav-link\">About</a>\r\n-                            <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" class=\"nav-item nav-link\">Form</a>\r\n+                            <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" target=\"_blank\" class=\"nav-item nav-link\">Form</a>\r\n                             <a href=\"Student.html\" class=\"nav-item nav-link\">Student</a>\r\n                             <a href=\"Teacher.html\" class=\"nav-item nav-link active\">Teachers</a>\r\n                             <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subjects</a>\r\n                             <a href=\"Club.html\" class=\"nav-item nav-link\">Club</a>\r\n"
+                },
+                {
+                    "date": 1730911759261,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -92,9 +92,9 @@\n                 <div class=\"team-item rounded overflow-hidden mb-2\">\r\n                     <div class=\"team-img position-relative\">\r\n                         <img class=\"custom-img\" src=\"https://th.bing.com/th/id/R.3df4550850284b44dad639367f77b273?rik=IG63%2fRtdOJivbA&riu=http%3a%2f%2filarge.lisimg.com%2fimage%2f7964282%2f1118full-tom-hiddleston.jpg&ehk=rBnlk0gZhm9msYK0FMcU3OVRERekssFd2NmxiJyD2RU%3d&risl=&pid=ImgRaw&r=0\" alt=\"\" width=\"500\" height=\"500\" >\r\n                         <div class=\"team-social\">\r\n-                            <a class=\"btn btn-outline-light btn-square mx-1\" href=\" # \"><i class=\"fab fa-linkedin-in\"></i></a>\r\n+                            <a class=\"btn btn-outline-light btn-square mx-1\" href=\" # \" target=\"_blank\" ><i class=\"fab fa-linkedin-in\"></i></a>\r\n                         </div>\r\n                     </div>\r\n                     <div class=\"bg-secondary p-4\">\r\n                         <h5>Tim Timothy Mateos</h5>\r\n"
                 }
             ],
             "date": 1730812975612,

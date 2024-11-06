@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 30,
+            "activePatchIndex": 31,
             "patches": [
                 {
                     "date": 1730812905922,
@@ -128,6 +128,10 @@
                 {
                     "date": 1730888333246,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -53,9 +53,8 @@\n                             <a href=\"about.html\" class=\"nav-item nav-link\">About</a>\r\n                             <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" class=\"nav-item nav-link\">Form</a>\r\n                             <a href=\"Student.html\" class=\"nav-item nav-link\">Student</a>\r\n                             <a href=\"Teacher.html\" class=\"nav-item nav-link\">Teachers</a>\r\n-                            <a href=\"Student Council.html\" class=\"nav-item nav-link\">Student Council</a>\r\n                             <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subjects</a>\r\n                             <a href=\"Club.html\" class=\"nav-item nav-link active\">Club</a>\r\n                         </div>\r\n                     </div>\r\n"
+                },
+                {
+                    "date": 1730911835662,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -50,9 +50,9 @@\n                         <div class=\"navbar-nav py-0\">\r\n                             <!-- แก้ไข href เป็น href=\"#\" หรือ href=\"javascript:void(0)\" -->\r\n                             <a href=\"index.html\" class=\"nav-item nav-link\">Home</a>\r\n                             <a href=\"about.html\" class=\"nav-item nav-link\">About</a>\r\n-                            <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" class=\"nav-item nav-link\">Form</a>\r\n+                            <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" target=\"_blank\" class=\"nav-item nav-link\">Form</a>\r\n                             <a href=\"Student.html\" class=\"nav-item nav-link\">Student</a>\r\n                             <a href=\"Teacher.html\" class=\"nav-item nav-link\">Teachers</a>\r\n                             <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subjects</a>\r\n                             <a href=\"Club.html\" class=\"nav-item nav-link active\">Club</a>\r\n"
                 }
             ],
             "date": 1730812905922,
