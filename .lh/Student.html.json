@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 56,
+            "activePatchIndex": 59,
             "patches": [
                 {
                     "date": 1730812947613,
@@ -232,6 +232,18 @@
                 {
                     "date": 1730885695813,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -50,9 +50,9 @@\n                         <div class=\"navbar-nav py-0\">\r\n                             <!-- แก้ไข href เป็น href=\"#\" หรือ href=\"javascript:void(0)\" -->\r\n                             <a href=\"index.html\" class=\"nav-item nav-link\">Home</a>\r\n                             <a href=\"about.html\" class=\"nav-item nav-link\">About</a>\r\n-                            <a href=\"#\" class=\"nav-item nav-link\">Form</a>\r\n+                            <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" class=\"nav-item nav-link\">Form</a>\r\n                             <a href=\"Student.html\" class=\"nav-item nav-link active\">Student</a>\r\n                             <a href=\"Teacher.html\" class=\"nav-item nav-link\">Teachers</a>\r\n                             <a href=\"Student Council.html\" class=\"nav-item nav-link\">Student Council</a>\r\n                             <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subjects</a>\r\n"
+                },
+                {
+                    "date": 1730887751722,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -154,9 +154,9 @@\n                         <a class=\"btn btn-outline-light btn-square mx-1\" href=\" # \"><i class=\"fab fa-linkedin-in\"></i></a>\r\n                     </div>\r\n                 </div>\r\n                 <div class=\"bg-secondary p-4\">\r\n-                    <h5> </h5>\r\n+                    <h5>Tiwakorn LaRue Travers Paradis</h5>\r\n                     <p class=\"m-0\"> </p>\r\n                 </div>\r\n             </div>\r\n         </div>\r\n"
+                },
+                {
+                    "date": 1730887829132,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -154,9 +154,9 @@\n                         <a class=\"btn btn-outline-light btn-square mx-1\" href=\" # \"><i class=\"fab fa-linkedin-in\"></i></a>\r\n                     </div>\r\n                 </div>\r\n                 <div class=\"bg-secondary p-4\">\r\n-                    <h5>Tiwakorn LaRue Travers Paradis</h5>\r\n+                    <h5></h5>\r\n                     <p class=\"m-0\"> </p>\r\n                 </div>\r\n             </div>\r\n         </div>\r\n"
+                },
+                {
+                    "date": 1730887869542,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -139,10 +139,10 @@\n                         <a class=\"btn btn-outline-light btn-square mx-1\" href=\" # \"><i class=\"fab fa-linkedin-in\"></i></a>\r\n                     </div>\r\n                 </div>\r\n                 <div class=\"bg-secondary p-4\">\r\n-                    <h5> </h5>\r\n-                    <p class=\"m-0\"></p>\r\n+                    <h5>Tiwakorn LaRue Travers Paradis</h5>\r\n+                    <p class=\"m-0\">President(ชั่วคราว)</p>\r\n                 </div>\r\n             </div>\r\n         </div>\r\n \r\n"
                 }
             ],
             "date": 1730812947613,
