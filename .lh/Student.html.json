@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 61,
+            "activePatchIndex": 62,
             "patches": [
                 {
                     "date": 1730812947613,
@@ -252,6 +252,10 @@
                 {
                     "date": 1730887917743,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -135,9 +135,9 @@\n             <div class=\"team-item rounded overflow-hidden mb-2\">\r\n                 <div class=\"team-img position-relative\">\r\n                     <img class=\"custom-img\" src=\"https://i.pinimg.com/736x/45/e6/1b/45e61b6321ce3e571120e97beea7fe4f.jpg\" alt=\"\" width=\"500\" height=\"500\" >\r\n                     <div class=\"team-social\">\r\n-                        <a class=\"btn btn-outline-light btn-square mx-1\" href=\"https://www.canva.com/design/DAGVsb9WkMc/pePPh9u_IbXniFTNwPjpRQ/view?utm_content=DAGVsb9WkMc&utm_campaign=designshare&utm_medium=link&utm_source=editor \"><i class=\"fab fa-linkedin-in\"></i></a>\r\n+                        <a class=\"btn btn-outline-light btn-square mx-1\" href=\"https://www.canva.com/design/DAGVsb9WkMc/pePPh9u_IbXniFTNwPjpRQ/view?utm_content=DAGVsb9WkMc&utm_campaign=designshare&utm_medium=link&utm_source=editor\"><i class=\"fab fa-linkedin-in\"></i></a>\r\n                     </div>\r\n                 </div>\r\n                 <div class=\"bg-secondary p-4\">\r\n                     <h5>Tiwakorn LaRue Travers Paradis</h5>\r\n"
+                },
+                {
+                    "date": 1730888363394,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -53,9 +53,8 @@\n                             <a href=\"about.html\" class=\"nav-item nav-link\">About</a>\r\n                             <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" class=\"nav-item nav-link\">Form</a>\r\n                             <a href=\"Student.html\" class=\"nav-item nav-link active\">Student</a>\r\n                             <a href=\"Teacher.html\" class=\"nav-item nav-link\">Teachers</a>\r\n-                            <a href=\"Student Council.html\" class=\"nav-item nav-link\">Student Council</a>\r\n                             <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subjects</a>\r\n                             <a href=\"Club.html\" class=\"nav-item nav-link\">Club</a>\r\n                         </div>\r\n                     </div>\r\n"
                 }
             ],
             "date": 1730812947613,
