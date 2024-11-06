@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 91,
+            "activePatchIndex": 92,
             "patches": [
                 {
                     "date": 1730812947613,
@@ -372,6 +372,10 @@
                 {
                     "date": 1730917306910,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -119,9 +119,9 @@\n                     </div>\r\n                 </div>\r\n                 <div class=\"bg-secondary p-4\">\r\n                     <h5> </h5>\r\n-                  <p class=\"m-0\"> </p>\r\n+                  <p class=\"m-0\">Soccer Club</p>\r\n                 </div>\r\n             </div>\r\n         </div>\r\n     \r\n"
+                },
+                {
+                    "date": 1730917538782,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -52,9 +52,9 @@\n                             <a href=\"index.html\" class=\"nav-item nav-link\">Home</a>\r\n                             <a href=\"about.html\" class=\"nav-item nav-link\">About</a>\r\n                             <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" target=\"_blank\" class=\"nav-item nav-link\">Form</a>\r\n                             <a href=\"Student.html\" class=\"nav-item nav-link active\">Student</a>\r\n-                            <a href=\"Teacher.html\" class=\"nav-item nav-link\">Teachers</a>\r\n+                            <a href=\"Teacher.html\" class=\"nav-item nav-link\">Teacher</a>\r\n                             <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subjects</a>\r\n                             <a href=\"Club.html\" class=\"nav-item nav-link\">Club</a>\r\n                         </div>\r\n                     </div>\r\n"
                 }
             ],
             "date": 1730812947613,

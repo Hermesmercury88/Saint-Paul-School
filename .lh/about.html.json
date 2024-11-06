@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 174,
+            "activePatchIndex": 176,
             "patches": [
                 {
                     "date": 1730790798964,
@@ -704,6 +704,14 @@
                 {
                     "date": 1730911892118,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -220,9 +220,9 @@\n                     <p style=\"color: white;\"> \r\n                         > รับนักเรียนจำกัดเพียง 30 คนเท่านั้น\r\n                         <ol></ol>\r\n                     </p>\r\n-                    <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Form</a>\r\n+                    <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" target=\"_blank\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Form</a>\r\n                 </div>\r\n             </div>\r\n         </div>\r\n       <!-- About End -->\r\n"
+                },
+                {
+                    "date": 1730917501810,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -52,9 +52,9 @@\n                             <a href=\"index.html\" class=\"nav-item nav-link\">Home</a>\r\n                             <a href=\"about.html\" class=\"nav-item nav-link active\">About</a>\r\n                             <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" target=\"_blank\" class=\"nav-item nav-link\">Form</a>\r\n                             <a href=\"Student.html\" class=\"nav-item nav-link\">Student</a>\r\n-                            <a href=\"Teacher.html\" class=\"nav-item nav-link\">Teachers</a>\r\n+                            <a href=\"Teacher.html\" class=\"nav-item nav-link\">Teacher</a>\r\n                             <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subjects</a>\r\n                             <a href=\"Club.html\" class=\"nav-item nav-link\">Club</a>\r\n                         </div>\r\n                     </div>\r\n"
+                },
+                {
+                    "date": 1730917530108,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -53,9 +53,9 @@\n                             <a href=\"about.html\" class=\"nav-item nav-link active\">About</a>\r\n                             <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" target=\"_blank\" class=\"nav-item nav-link\">Form</a>\r\n                             <a href=\"Student.html\" class=\"nav-item nav-link\">Student</a>\r\n                             <a href=\"Teacher.html\" class=\"nav-item nav-link\">Teacher</a>\r\n-                            <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subjects</a>\r\n+                            <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subject</a>\r\n                             <a href=\"Club.html\" class=\"nav-item nav-link\">Club</a>\r\n                         </div>\r\n                     </div>\r\n                 </nav>\r\n"
                 }
             ],
             "date": 1730790798964,
