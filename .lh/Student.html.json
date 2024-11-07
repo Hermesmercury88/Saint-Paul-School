@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 95,
+            "activePatchIndex": 96,
             "patches": [
                 {
                     "date": 1730812947613,
@@ -388,6 +388,10 @@
                 {
                     "date": 1730964137375,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -152,9 +152,9 @@\n             <div class=\"team-item rounded overflow-hidden mb-2\">\r\n                 <div class=\"team-img position-relative\">\r\n                     <img class=\"custom-img\" src=\"https://i.pinimg.com/564x/3c/60/93/3c60936adfe9de7e22d16dcabbdadfcf.jpg\" alt=\"\" width=\"500\" height=\"500\" >\r\n                     <div class=\"team-social\">\r\n-                        <a class=\"btn btn-outline-light btn-square mx-1\" href=\" # \" target=\"_blank\"><i class=\"fab fa-linkedin-in\"></i></a>\r\n+                        <!-- <a class=\"btn btn-outline-light btn-square mx-1\" href=\" # \" target=\"_blank\"><i class=\"fab fa-linkedin-in\"></i></a> -->\r\n                         <a class=\"btn btn-outline-light btn-square mx-1\" href=\"https://www.instagram.com/pp_pakcr7?igsh=YjRrNjRlOWRmY2d1\" target=\"_blank\"><i class=\"fab fa-instagram\"></i></a>\r\n                     </div>\r\n                 </div>\r\n                 <div class=\"bg-secondary p-4\">\r\n"
+                },
+                {
+                    "date": 1730964993533,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -141,9 +141,9 @@\n                         <a class=\"btn btn-outline-light btn-square mx-1\" href=\"https://www.instagram.com/gozyaslari_okyanus?igsh=c2F5cnc1NHFiZDhu\" target=\"_blank\"><i class=\"fab fa-instagram\"></i></a>\r\n                     </div>\r\n                 </div>\r\n                 <div class=\"bg-secondary p-4\">\r\n-                    <h5>Tiwakorn LaRue Travers Paradis</h5>\r\n+                    <h5>Tiwakorn LaRue ‘Grosjean’ Paradis</h5>\r\n                     <p class=\"m-0\">President Photography club</p>\r\n                 </div>\r\n             </div>\r\n         </div>\r\n"
                 }
             ],
             "date": 1730812947613,
