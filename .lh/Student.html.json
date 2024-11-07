@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 96,
+            "activePatchIndex": 97,
             "patches": [
                 {
                     "date": 1730812947613,
@@ -392,6 +392,10 @@
                 {
                     "date": 1730964993533,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -141,9 +141,9 @@\n                         <a class=\"btn btn-outline-light btn-square mx-1\" href=\"https://www.instagram.com/gozyaslari_okyanus?igsh=c2F5cnc1NHFiZDhu\" target=\"_blank\"><i class=\"fab fa-instagram\"></i></a>\r\n                     </div>\r\n                 </div>\r\n                 <div class=\"bg-secondary p-4\">\r\n-                    <h5>Tiwakorn LaRue Travers Paradis</h5>\r\n+                    <h5>Tiwakorn LaRue ‘Grosjean’ Paradis</h5>\r\n                     <p class=\"m-0\">President Photography club</p>\r\n                 </div>\r\n             </div>\r\n         </div>\r\n"
+                },
+                {
+                    "date": 1730965310738,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -87,9 +87,9 @@\n             <h1 style=\"color: white;\">Nice to meet you</h1>\r\n         </div>\r\n     </div>\r\n \r\n-    <div class=\"text-center mb-5\">>\r\n+    <div class=\"text-center mb-5\">\r\n         <h1 style=\"color: white;\">Grade 10</h1>\r\n     </div>\r\n     \r\n     <div class=\"row\">\r\n"
                 }
             ],
             "date": 1730812947613,
