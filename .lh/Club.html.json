@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 32,
+            "activePatchIndex": 40,
             "patches": [
                 {
                     "date": 1730812905922,
@@ -136,6 +136,38 @@
                 {
                     "date": 1730917508995,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -53,9 +53,9 @@\n                             <a href=\"about.html\" class=\"nav-item nav-link\">About</a>\r\n                             <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" target=\"_blank\" class=\"nav-item nav-link\">Form</a>\r\n                             <a href=\"Student.html\" class=\"nav-item nav-link\">Student</a>\r\n                             <a href=\"Teacher.html\" class=\"nav-item nav-link\">Teachers</a>\r\n-                            <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subjects</a>\r\n+                            <a href=\"Subjects.html\" class=\"nav-item nav-link\">Subject</a>\r\n                             <a href=\"Club.html\" class=\"nav-item nav-link active\">Club</a>\r\n                         </div>\r\n                     </div>\r\n                 </nav>\r\n"
+                },
+                {
+                    "date": 1731132965254,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -267,8 +267,10 @@\n                         </a>\r\n                     </div>\r\n                 </div>\r\n \r\n+                <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" target=\"_blank\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Form</a>\r\n+\r\n             </div>\r\n         </div>\r\n     </div>\r\n     <!-- Category Start -->\r\n"
+                },
+                {
+                    "date": 1731133061969,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -267,10 +267,8 @@\n                         </a>\r\n                     </div>\r\n                 </div>\r\n \r\n-                <a href=\"https://docs.google.com/document/d/1uXzQhlXDF-jxJmXNjIBY_qvH0TQz6H91co3vJwjgJSM/edit?usp=sharing\" target=\"_blank\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Form</a>\r\n-\r\n             </div>\r\n         </div>\r\n     </div>\r\n     <!-- Category Start -->\r\n"
+                },
+                {
+                    "date": 1731133072599,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -272,8 +272,13 @@\n         </div>\r\n     </div>\r\n     <!-- Category Start -->\r\n \r\n+    <div class=\"col-lg text-center\">\r\n+        <div class=\"col-lg-3 col-md-6 mb-4\"></div>\r\n+        <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScEn1mJoHsUU371uVd--Q41X5X7Ta4dD18q1HXoAWFY_qAGUw/viewform\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Join to Club</a>\r\n+    </div>\r\n+\r\n     <!-- Back to Top -->\r\n     <a href=\"#\" class=\"btn btn-lg btn-primary btn-lg-square back-to-top\"><i class=\"fa fa-angle-double-up\"></i></a>\r\n \r\n \r\n"
+                },
+                {
+                    "date": 1731133093603,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -274,9 +274,9 @@\n     <!-- Category Start -->\r\n \r\n     <div class=\"col-lg text-center\">\r\n         <div class=\"col-lg-3 col-md-6 mb-4\"></div>\r\n-        <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScEn1mJoHsUU371uVd--Q41X5X7Ta4dD18q1HXoAWFY_qAGUw/viewform\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Join to Club</a>\r\n+        <a href=\"https://docs.google.com/document/d/1qEcRt-QAWB3LLnZZPlni8PZTQlyDdUwTGS0HtV0z_NQ/edit?usp=drivesdk\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Join to Club</a>\r\n     </div>\r\n \r\n     <!-- Back to Top -->\r\n     <a href=\"#\" class=\"btn btn-lg btn-primary btn-lg-square back-to-top\"><i class=\"fa fa-angle-double-up\"></i></a>\r\n"
+                },
+                {
+                    "date": 1731133108320,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -271,9 +271,8 @@\n             </div>\r\n         </div>\r\n     </div>\r\n     <!-- Category Start -->\r\n-\r\n     <div class=\"col-lg text-center\">\r\n         <div class=\"col-lg-3 col-md-6 mb-4\"></div>\r\n         <a href=\"https://docs.google.com/document/d/1qEcRt-QAWB3LLnZZPlni8PZTQlyDdUwTGS0HtV0z_NQ/edit?usp=drivesdk\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Join to Club</a>\r\n     </div>\r\n"
+                },
+                {
+                    "date": 1731133116767,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -271,11 +271,12 @@\n             </div>\r\n         </div>\r\n     </div>\r\n     <!-- Category Start -->\r\n+\r\n     <div class=\"col-lg text-center\">\r\n         <div class=\"col-lg-3 col-md-6 mb-4\"></div>\r\n-        <a href=\"https://docs.google.com/document/d/1qEcRt-QAWB3LLnZZPlni8PZTQlyDdUwTGS0HtV0z_NQ/edit?usp=drivesdk\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">Join to Club</a>\r\n+        <a href=\"https://docs.google.com/document/d/1qEcRt-QAWB3LLnZZPlni8PZTQlyDdUwTGS0HtV0z_NQ/edit?usp=drivesdk\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">สน</a>\r\n     </div>\r\n \r\n     <!-- Back to Top -->\r\n     <a href=\"#\" class=\"btn btn-lg btn-primary btn-lg-square back-to-top\"><i class=\"fa fa-angle-double-up\"></i></a>\r\n"
+                },
+                {
+                    "date": 1731133125859,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -274,9 +274,9 @@\n     <!-- Category Start -->\r\n \r\n     <div class=\"col-lg text-center\">\r\n         <div class=\"col-lg-3 col-md-6 mb-4\"></div>\r\n-        <a href=\"https://docs.google.com/document/d/1qEcRt-QAWB3LLnZZPlni8PZTQlyDdUwTGS0HtV0z_NQ/edit?usp=drivesdk\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">สน</a>\r\n+        <a href=\"https://docs.google.com/document/d/1qEcRt-QAWB3LLnZZPlni8PZTQlyDdUwTGS0HtV0z_NQ/edit?usp=drivesdk\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\"></a>\r\n     </div>\r\n \r\n     <!-- Back to Top -->\r\n     <a href=\"#\" class=\"btn btn-lg btn-primary btn-lg-square back-to-top\"><i class=\"fa fa-angle-double-up\"></i></a>\r\n"
+                },
+                {
+                    "date": 1731133133997,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -274,9 +274,9 @@\n     <!-- Category Start -->\r\n \r\n     <div class=\"col-lg text-center\">\r\n         <div class=\"col-lg-3 col-md-6 mb-4\"></div>\r\n-        <a href=\"https://docs.google.com/document/d/1qEcRt-QAWB3LLnZZPlni8PZTQlyDdUwTGS0HtV0z_NQ/edit?usp=drivesdk\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\"></a>\r\n+        <a href=\"https://docs.google.com/document/d/1qEcRt-QAWB3LLnZZPlni8PZTQlyDdUwTGS0HtV0z_NQ/edit?usp=drivesdk\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">รายละเอียดการตั้งชมรม</a>\r\n     </div>\r\n \r\n     <!-- Back to Top -->\r\n     <a href=\"#\" class=\"btn btn-lg btn-primary btn-lg-square back-to-top\"><i class=\"fa fa-angle-double-up\"></i></a>\r\n"
                 }
             ],
             "date": 1730812905922,
