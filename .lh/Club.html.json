@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 41,
+            "activePatchIndex": 43,
             "patches": [
                 {
                     "date": 1730812905922,
@@ -172,6 +172,14 @@
                 {
                     "date": 1731133364731,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -274,9 +274,9 @@\n     <!-- Category Start -->\r\n \r\n     <div class=\"col-lg text-center\">\r\n         <div class=\"col-lg-3 col-md-6 mb-4\"></div>\r\n-        <a href=\"https://docs.google.com/document/d/1qEcRt-QAWB3LLnZZPlni8PZTQlyDdUwTGS0HtV0z_NQ/edit?usp=drivesdk\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">รายละเอียดการตั้งชมรม</a>\r\n+        <a href=\"https://docs.google.com/document/d/1qEcRt-QAWB3LLnZZPlni8PZTQlyDdUwTGS0HtV0z_NQ/edit?usp=drivesdk\" target=\"_blank\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">รายละเอียดการตั้งชมรม</a>\r\n     </div>\r\n \r\n     <!-- Back to Top -->\r\n     <a href=\"#\" class=\"btn btn-lg btn-primary btn-lg-square back-to-top\"><i class=\"fa fa-angle-double-up\"></i></a>\r\n"
+                },
+                {
+                    "date": 1731133413398,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -275,8 +275,9 @@\n \r\n     <div class=\"col-lg text-center\">\r\n         <div class=\"col-lg-3 col-md-6 mb-4\"></div>\r\n         <a href=\"https://docs.google.com/document/d/1qEcRt-QAWB3LLnZZPlni8PZTQlyDdUwTGS0HtV0z_NQ/edit?usp=drivesdk\" target=\"_blank\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">รายละเอียดการตั้งชมรม</a>\r\n+        \r\n     </div>\r\n \r\n     <!-- Back to Top -->\r\n     <a href=\"#\" class=\"btn btn-lg btn-primary btn-lg-square back-to-top\"><i class=\"fa fa-angle-double-up\"></i></a>\r\n"
+                },
+                {
+                    "date": 1731133419322,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -275,9 +275,9 @@\n \r\n     <div class=\"col-lg text-center\">\r\n         <div class=\"col-lg-3 col-md-6 mb-4\"></div>\r\n         <a href=\"https://docs.google.com/document/d/1qEcRt-QAWB3LLnZZPlni8PZTQlyDdUwTGS0HtV0z_NQ/edit?usp=drivesdk\" target=\"_blank\" class=\"btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2\">รายละเอียดการตั้งชมรม</a>\r\n-        \r\n+        <ol\r\n     </div>\r\n \r\n     <!-- Back to Top -->\r\n     <a href=\"#\" class=\"btn btn-lg btn-primary btn-lg-square back-to-top\"><i class=\"fa fa-angle-double-up\"></i></a>\r\n"
                 }
             ],
             "date": 1730812905922,
